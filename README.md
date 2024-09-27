@@ -1,3 +1,4 @@
+Aldo Alcántara Martínez   Grupo:6CV3   Profesor: Gracia Floriano Andres
 Laboratorio 3: Búsqueda no informada parte 2
 
 Descripción
